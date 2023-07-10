@@ -1,7 +1,8 @@
 # TournamentPredictor
 Tournament Predictor made for ECE 586, using VHDL
 
-ABSTRACT
+#ABSTRACT
+
 Branch prediction plays a crucial role in overcoming control hazards and improving the
 performance of processors by exposing instruction-level parallelism. This paper explores the concept of
 branch prediction and its significance in minimizing pipeline stalls. It discusses various branch prediction
